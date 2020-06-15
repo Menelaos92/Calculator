@@ -8,7 +8,7 @@ from tkinter import *
 expression = ""
 
 
-# Function to update expressiom
+# Function to update expression
 # in the text entry box
 def press(num):
     # point out the global expression variable
