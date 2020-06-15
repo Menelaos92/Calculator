@@ -40,7 +40,7 @@ def equalpress():
 
         equation.set(total)
 
-        # initialze the expression variable
+        # initialize the expression variable
         # by empty string
         expression = ""
 
